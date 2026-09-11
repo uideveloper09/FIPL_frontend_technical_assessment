@@ -4,6 +4,12 @@ Purchase Requisition Management module for the Force Intellect React Developer t
 
 Built with the required stack: **React.js**, **TypeScript**, **Tailwind CSS**, **React Router**, and **Zustand-ready local state** through a dedicated service layer (local persistence + loading/error handling).
 
+## Live demo
+
+Open the GitHub Pages app:
+
+https://uideveloper09.github.io/forceitellect_frontend_technical_assessment/
+
 ## Run locally
 
 ```bash
@@ -15,6 +21,7 @@ Open the printed local URL (Vite default is `http://localhost:5173`).
 
 ```bash
 npm run build
+npm run preview
 ```
 
 ## Assignment coverage
