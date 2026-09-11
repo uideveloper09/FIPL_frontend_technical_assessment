@@ -8,7 +8,7 @@ Built with the required stack: **React.js**, **TypeScript**, **Tailwind CSS**, *
 
 Open the GitHub Pages app:
 
-https://uideveloper09.github.io/forceitellect_frontend_technical_assessment/
+https://uideveloper09.github.io/FIPL_frontend_technical_assessment/
 
 ## Run locally
 
